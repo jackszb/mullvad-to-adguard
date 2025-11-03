@@ -3,6 +3,7 @@
 ||0001-metrics1-data-hicloud-com.geac.dbankedge.cn^
 ||0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn^
 ||0002-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn^
+||000bb32ff48c4d67b1f4b0461e82559e.fp.measure.office.com^
 ||00px.net^
 ||07b3.pandasuite.io^
 ||0ddf.pandasuite.io^
@@ -21,10 +22,12 @@
 ||11959579.fun.joyrun.com^
 ||11b6n4ty2x3.taxliencode.com^
 ||125.net.jumia.co.ke^
+||1255c5905921c14c32eb0708f6e063c8.fp.measure.office.com^
 ||12691274.ads.tiktok.com^
 ||12915784.care.sanvello.com^
 ||12915784.help.sanvello.com^
 ||12build.actonservice.com^
+||12f499ce479b4bab966195ceacdcc69e.fp.measure.office.com^
 ||13js1lbtbj3.sparkloop.app^
 ||1438976156.recolution.de^
 ||1558334541.rsc.cdn77.org^
@@ -32,6 +35,7 @@
 ||161779.publy.co^
 ||16ao.mathon.fr^
 ||16i6nuuc2ej.koelewijn.nl^
+||1734a5f5086441b7a267ebb0d3330c0f.fp.measure.office.com^
 ||176.net.jumia.ma^
 ||18052925.im.intermiles.com^
 ||18wosx.ru^
@@ -96,11 +100,13 @@
 ||3587285621425460184.academyofconsciousleadership.net^
 ||360direct.qualfon.com^
 ||3889082.dev.att.llabs.io^
+||38a2e0944d7f440288e4ab0ed92e5e63.fp.measure.office.com^
 ||3935128650935608632.academyofconsciousleadership.org^
 ||3988408442896783715.theacademyforconsciousleadership.com^
 ||3b38.pandasuite.io^
 ||3dm.3dimensional.com^
 ||3esm.consubebe.es^
+||3fb2c34e1bdd4cbfba4ad179079ea681.fp.measure.office.com^
 ||3gl.net^
 ||3j0pw4ed7uac-a.akamaihd.net^
 ||3l0zszdzjhpw.www.comicleaks.com^
@@ -113,20 +119,28 @@
 ||3wn3w3skxpym.round.t3.gg^
 ||40caidaylimpia.catzolab.net^
 ||4251.tech^
+||438f7ecf4ef64397a73af3480731097a.fp.measure.office.com^
 ||4399stat.5054399.com^
 ||46rtpw.ru^
+||47ed4cc9bbe746bb8162a4dbc676ceb8.fp.measure.office.com^
 ||48z7wyjdsywu.www.revistaferramental.com.br^
 ||492733704185584515.academyforconsciousculture.com^
 ||4b.oktium.com^
+||4e210ba81b9e4da68329db9bb53a4d59.fp.measure.office.com^
 ||4jaehnfqizyx.controlconceptsusa.com^
 ||4jnzhl0d0.com^
 ||5-c3.bigdata.ctc.neo.xiaomi.com^
 ||5173.pandasuite.io^
 ||529conference.strategic-i.com^
 ||52d8.pandasuite.io^
+||531d1a18fa644a9e9b458b72153260ab.fp.measure.office.com^
 ||5363316.marketing.numi.com^
 ||5363316.trackerinfo.southbeachdiet.com^
+||544c5404b91945289776697b16201f35.fp.measure.office.com^
+||54daba90a06d40feaac78a04e75cff01.fp.measure.office.com^
+||56c24269b83846eda94f668789a757b0.fp.measure.office.com^
 ||581b.pandasuite.io^
+||5ab8bd4fea704982859db3ab99fb8f9d.fp.measure.office.com^
 ||5d0edd5e7741c8a3af5375c999da40b7.fp.measure.office.com^
 ||5e00.pandasuite.io^
 ||5fm.985fm.ca^
@@ -142,6 +156,7 @@
 ||6519114.loyalty.tajawal.com^
 ||6519114.mktg.almosafer.com^
 ||6519114.mktg.tajawal.com^
+||653f696431a04d5ac8729b442606a534.fp.measure.office.com^
 ||6677648.reddoorz.com^
 ||66jo.societegenerale.fr^
 ||671c.pandasuite.io^
@@ -149,6 +164,7 @@
 ||682a5845.b-cdn.net^
 ||69-74.net.jumia.sn^
 ||6dp0i7.ru^
+||6ea36fffa74847599e5a61ff106b62a3.fp.measure.office.com^
 ||6nwp0r33a71m.app.dev.cardahealth.com^
 ||6pal.consobaby.com^
 ||6swu.cpa-france.org^
@@ -172,13 +188,17 @@
 ||8147563.thekingdom.bk.com^
 ||8147563.your-way.bk.com^
 ||82o9v830.com^
+||8763e9088f06487f93fdf467044c001d.fp.measure.office.com^
 ||8820.pandasuite.io^
 ||8d4b.pandasuite.io^
+||8ed86effbb12e77226d1a07501aae8c7.fp.measure.office.com^
 ||8ehhtsv9bo7i.monkeylearn.com^
 ||8ezc.sfr.fr^
 ||8ue4rp6yxyis.www.tapmyback.com^
 ||8vwxqg.tapin.gg^
+||906362b1d149d5f131b27f71bb32fad8.fp.measure.office.com^
 ||9189.pandasuite.io^
+||93fd45f21adabda3bc4bdc5ccc86aeff.fp.measure.office.com^
 ||9544702.kazooby.com^
 ||9693.pandasuite.io^
 ||9735476.sender.skyscanner.com^
@@ -192,6 +212,8 @@
 ||9b55.pandasuite.io^
 ||9b5gjkrnw71r.it.themoneytizer.com^
 ||9bdb.pandasuite.io^
+||9bf9b89af15c562c86b349eca4f77af2.fp.measure.office.com^
+||9ebbec43d8eb416f8f17d91104f899f7.fp.measure.office.com^
 ||9kkjfywjz50v.www.eventus.io^
 ||9kvnwwkj.pandasuite.io^
 ||9l3cr6dvk2kb.adaptive.marketing^
@@ -4053,6 +4075,7 @@
 ||aax-eu.amazon-adsystem.com^
 ||aax-events-cell01-cf.ap-southeast.aps.axp.amazon-adsystem.com^
 ||aax-events-cell01-cf.eu-central.3px.axp.amazon-adsystem.com^
+||aax-events-cell01-cf.eu-south.ono.axp.amazon-adsystem.com^
 ||aax-events-cell01-cf.eu-west.3px.axp.amazon-adsystem.com^
 ||aax-events-cell01-cf.eu-west.aps.axp.amazon-adsystem.com^
 ||aax-events-cell01-cf.eu-west.ono.axp.amazon-adsystem.com^
@@ -4832,6 +4855,7 @@
 ||ads-gamma.aps.amazon-adsystem.com^
 ||ads-ie.tiktokw.eu^
 ||ads-msn-com-profile.trafficmanager.net^
+||ads-service.tiktok.com^
 ||ads-setu-proxy-eu.amazon.com^
 ||ads-sg.tiktok.com^
 ||ads-tracking.beop.io^
@@ -7137,6 +7161,7 @@
 ||apps.wholefoodsmarket.com^
 ||apps.zingeroo.com^
 ||appsecurezomation.carte-gr.total.fr^
+||appstore-trace-h5sdk.vivo.com.cn^
 ||appstore.cdn.pandora.xiaomi.com^
 ||appstore.pandora.xiaomi.com^
 ||appstore.ptmi.gitv.tv^
@@ -7789,6 +7814,7 @@
 ||b.ysh.io^
 ||b.zedge.me^
 ||b0.yahoo.co.jp^
+||b0439479f15743afb52af64075df86c8.fp.measure.office.com^
 ||b1-data.ads.heytapmobi.com^
 ||b1n.carabins.umontreal.ca^
 ||b1tow9h4erpw.anur.polymerdev.com^
@@ -8527,6 +8553,7 @@
 ||browser-api-vn.heytapmobile.com^
 ||browser-api-za.heytapmobile.com^
 ||browser-sdk-fr.heytapmobile.com^
+||browser-sdk-in.heytapmobile.com^
 ||browser-sdk-ru.heytapmobile.com^
 ||browser-updater.yandex.net^
 ||browser.covatic.io^
@@ -8804,6 +8831,7 @@
 ||c.xbox.com^
 ||c.za.msn.com^
 ||c0012.brsimg.com^
+||c0cd4499d01c45e796c88a7e9396af20.fp.measure.office.com^
 ||c0i.ckoi.com^
 ||c0p.cepsum.umontreal.ca^
 ||c1.microsoft.com^
@@ -8818,6 +8846,7 @@
 ||c4cm.actonservice.com^
 ||c4contexture.actonservice.com^
 ||c4dv.copinesdevoyage.com^
+||c5f8516ef6de40c299e323b05615a638.fp.measure.office.com^
 ||c6lc.pandasuite.io^
 ||c917.pandasuite.io^
 ||ca-central-1-1.telemetry.insights.video.a2z.com^
@@ -9067,6 +9096,7 @@
 ||cdn-channels-pixel.ex.co^
 ||cdn-d.amazon-adsystem.com^
 ||cdn-eu.usefathom.com^
+||cdn-exp-sg-recommend.pt.xiaomi.com^
 ||cdn-rum.ngenix.net^
 ||cdn-t.amazon-adsystem.com^
 ||cdn-xp-ingest-ab.v.aaplimg.com^
@@ -9111,6 +9141,7 @@
 ||cell7001.iad.spp.bid-na.ads.aps.amazon-adsystem.com^
 ||cell7001.iad.stv.bid-na.ads.aps.amazon-adsystem.com^
 ||cell7001.iad.stv.event-na.ads.aps.amazon-adsystem.com^
+||cell7002.pdx.pg.event-na.ads.aps.amazon-adsystem.com^
 ||cell7002.pdx.spp.bid-na.ads.aps.amazon-adsystem.com^
 ||cell7002.pdx.stv.bid-na.ads.aps.amazon-adsystem.com^
 ||cell7002.pdx.stv.event-na.ads.aps.amazon-adsystem.com^
@@ -9563,6 +9594,7 @@
 ||cms-stats-view.vitrinabox.com^
 ||cms.hardloopaanbiedingen.nl^
 ||cms.sec.miui.com^
+||cmsqd1.alphonso.tv^
 ||cmtmwn.ditano.com^
 ||cmttvv.bonprix.se^
 ||cmzaly.gebrueder-goetz.de^
@@ -9638,6 +9670,7 @@
 ||cnxddc.lodenfrey.com^
 ||co-cota.vivoglobal.com^
 ||co-domaincfg.vivoglobal.com^
+||co-err-up.vivoglobal.com^
 ||co-onrt-stsdk.vivoglobal.com^
 ||co-ort-stsdk.vivoglobal.com^
 ||co-pnrt-stsdk.vivoglobal.com^
@@ -10424,6 +10457,7 @@
 ||crew-qa.zubie.com^
 ||crew.spektare.tv^
 ||crew.zubie.com^
+||crgyirwbq42.alphonso.tv^
 ||crimsonmeadow.com^
 ||criteo.gap.ae^
 ||critictruck.com^
@@ -10436,6 +10470,7 @@
 ||crm.toyotago.com.ec^
 ||crm.velocify.com^
 ||crmcommunications.progressive.com^
+||crmjqv9.alphonso.tv^
 ||crmonline.actonservice.com^
 ||crocetta.viessmann.it^
 ||crochetdivas.com^
@@ -10789,6 +10824,7 @@
 ||d.wi-fi.ru^
 ||d.xapcard.com^
 ||d.xiaomi.com^
+||d0ac2790e1ac4a6289b9a9829b278b55.fp.measure.office.com^
 ||d10lpsik1i8c69.cloudfront.net^
 ||d11bdev7tcn7wh.cloudfront.net^
 ||d169bbxks24g2u.cloudfront.net^
@@ -10831,6 +10867,7 @@
 ||d24luoisenoi7j.cloudfront.net^
 ||d24rtvkqjwgutp.cloudfront.net^
 ||d276.ourmidland.com^
+||d2b58627e223588c649b19b40474a009.fp.measure.office.com^
 ||d2cpw6kwpff7n5.cloudfront.net^
 ||d2ezz24t9nm0vu.cloudfront.net^
 ||d2gbtcuv3w9qyv.cloudfront.net^
@@ -11625,6 +11662,7 @@
 ||ddsndt.azubiyo.de^
 ||de-de.siemensplmevents.com^
 ||de-gdpr-err-up.vivoglobal.com^
+||de-gdpr-vcode-od.vivoglobal.com^
 ||de-go.experian.com^
 ||de-metalshop.m-shop.me^
 ||de.ad.lgsmartad.com^
@@ -11634,6 +11672,7 @@
 ||de.pandora.xiaomi.com^
 ||de.sharpmarketing.eu^
 ||de.verintsystemsinc.com^
+||de0574d6cba179c264d57ac004b4b361.fp.measure.office.com^
 ||de5zarwna0j2q.cloudfront.net^
 ||dealerrelations.cargurus.com^
 ||dealfastfood.openapp.link^
@@ -12378,6 +12417,7 @@
 ||dptkdh.joinhoney.com^
 ||dq95d35.com^
 ||dqefxd.kaigoworker.jp^
+||dqfui3.alphonso.tv^
 ||dqif5bl25s0bf.cloudfront.net^
 ||dqntra.home-to-go.ca^
 ||dqqfrs.qatarairways.com^
@@ -12446,6 +12486,7 @@
 ||dtsif22.alphonso.tv^
 ||dttrk.com^
 ||dtxtngytz5im1.cloudfront.net^
+||dtyjiik06.alphonso.tv^
 ||dtzrrz.green-japan.com^
 ||du4rq1xqh3i1k.cloudfront.net^
 ||dual-s-ring.msedge.net^
@@ -12502,6 +12543,7 @@
 ||dzbbzg.carfinance247.co.uk^
 ||dzforp.buscape.com.br^
 ||dzgwautxzdtn9.cloudfront.net^
+||dzhsiasru67.alphonso.tv^
 ||dzjhok.teufelaudio.at^
 ||dzkygl.ullapopken.nl^
 ||dzqkrgamr75.alphonso.tv^
@@ -12545,8 +12587,11 @@
 ||e246.pandasuite.io^
 ||e403.pandasuite.io^
 ||e428.tio.nl^
+||e5d854e70da241fa8a3f92c8f87dd95e.fp.measure.office.com^
 ||e5obq1v261.www.lurkit.com^
+||e69699c6f73785c1136971eb62cf18a2.fp.measure.office.com^
 ||e77lmzbqou0n-a.akamaihd.net^
+||e8d23ce9ea81bf0a0f8bc2117b03fb9a.fp.measure.office.com^
 ||ea.armandthiery.fr^
 ||ea.assuronline.com^
 ||ea.auchantelecom.fr^
@@ -13941,12 +13986,14 @@
 ||eu-acr97.alphonso.tv^
 ||eu-acr98.alphonso.tv^
 ||eu-acr99.alphonso.tv^
+||eu-album-api.vivoglobal.com^
 ||eu-bl-server.alphonso.tv^
 ||eu-central-1-1.telemetry.insights.video.a2z.com^
 ||eu-central-1-2.telemetry.insights.video.a2z.com^
 ||eu-central-1-3.telemetry.insights.video.a2z.com^
 ||eu-central.3px.axp.amazon-adsystem.com^
 ||eu-clockskew.alphonso.tv^
+||eu-cota.vivoglobal.com^
 ||eu-domaincfg.vivoglobal.com^
 ||eu-errup.vivoglobal.com^
 ||eu-ic3.events.data.microsoft.com^
@@ -13965,6 +14012,7 @@
 ||eu-romsp-unifyconfig.vivoglobal.com^
 ||eu-south.ono.axp.amazon-adsystem.com^
 ||eu-st-sl.vivoglobal.com^
+||eu-stsdk.vivoglobal.com^
 ||eu-teams.events.data.microsoft.com^
 ||eu-timesync.vivoglobal.com^
 ||eu-v10.events.data.microsoft.com^
@@ -14434,6 +14482,8 @@
 ||f2.voyage-prive.com^
 ||f27tltnd.de^
 ||f362.nola.com^
+||f43be430a84e46e2a9380e8c6f56d621.fp.measure.office.com^
+||f46c52fb963cdf0d874b527cfa730af9.fp.measure.office.com^
 ||f5.track-mv-01.com^
 ||f775.thehour.com^
 ||f8phvntohv.tpetry.me^
@@ -14589,6 +14639,7 @@
 ||fewjuice.com^
 ||fewkittens.com^
 ||ff.pdf.ac^
+||ff0d74cd2eed4ae9a694fda104858a66.fp.measure.office.com^
 ||ffbbbdc6d3c353211fe2ba39c9f744cd.com^
 ||ffc-excel-telemetry.officeapps.live.com^
 ||ffc-word-telemetry.officeapps.live.com^
@@ -15008,6 +15059,7 @@
 ||friendlycrayon.com^
 ||friendlyfold.com^
 ||friends.hyll.com^
+||frmrmyi2.alphonso.tv^
 ||frog.editorx.com^
 ||frog.yuanfudao.com^
 ||frogator.com^
@@ -15028,7 +15080,6 @@
 ||frztrk.beaute-test.com^
 ||frztrk.netmums.com^
 ||fs-client-logger.herokuapp.com^
-||fsad.trafficmanager.net^
 ||fsbozl.dillards.com^
 ||fscareers.epoise.com^
 ||fscareerstest.epoise.com^
@@ -15108,6 +15159,7 @@
 ||fwmqki.eckerle.de^
 ||fwpugy.savilerowco.com^
 ||fwsgvo.takami-labo.com^
+||fwvrvdv95.alphonso.tv^
 ||fxfezg.bodylab24.de^
 ||fxipca.americanexpress.ca^
 ||fxipreferral.americanexpress.com^
@@ -15512,6 +15564,7 @@
 ||gitcrumbs.com^
 ||givevacation.com^
 ||givoiq.nichiigakkan-careerplus.jp^
+||gixtvwwny43.alphonso.tv^
 ||gizsyj.thegrommet.com^
 ||gj.mmstat.com^
 ||gjljde.kathmandu.co.nz^
@@ -16449,6 +16502,7 @@
 ||hauixd.halistores.com^
 ||hauzdj.quellogiusto.it^
 ||haxdym.min-breeder.com^
+||haystack.wavve.com^
 ||hazawl.veke.fi^
 ||hazmatworkshop.com^
 ||hb.vhsrv.com^
@@ -17009,6 +17063,7 @@
 ||idiagnostics.apple.com^
 ||idiagnostics.apple.com.akadns.net^
 ||idianw.warmteservice.nl^
+||idkjv31.alphonso.tv^
 ||idlecollect.com^
 ||idlqzb.puntoscolombia.com^
 ||idm.api.autohome.com.cn^
@@ -18863,6 +18918,7 @@
 ||irelandroad.com^
 ||irfiqx.babyneeds.ro^
 ||iridescentdusk.com^
+||irmchav36.alphonso.tv^
 ||irmsolutions.choicepoint.com^
 ||iro.iperceptions.com^
 ||irqewz.vilebrequin.com^
@@ -18977,6 +19033,7 @@
 ||jcblar.floridarentals.com^
 ||jcimgi.bestcuckoo.co.kr^
 ||jcmonitor.xcar.com.cn^
+||jcntvzwcu59.alphonso.tv^
 ||jcpclick.com^
 ||jcplzp.lancel.com^
 ||jcpyyh.laredoute.es^
@@ -19294,6 +19351,7 @@
 ||jzprtb.1stdibs.com^
 ||jzq915.playmobil.com^
 ||jzqfac.bestsecret.ch^
+||jzzuvzq98.alphonso.tv^
 ||k-ring-fallback.msedge.net^
 ||k-ring.msedge.net^
 ||k.brandalley.be^
@@ -19502,6 +19560,7 @@
 ||krishnaw261.alphonso.tv^
 ||krishnaw262.alphonso.tv^
 ||krishnaw263.alphonso.tv^
+||krishnaw266.alphonso.tv^
 ||krishnaw268.alphonso.tv^
 ||krishnaw270.alphonso.tv^
 ||krishnaw271.alphonso.tv^
@@ -19583,10 +19642,12 @@
 ||krishnaw351.alphonso.tv^
 ||krishnaw352.alphonso.tv^
 ||krishnaw353.alphonso.tv^
+||krishnaw354.alphonso.tv^
 ||krishnaw355.alphonso.tv^
 ||krishnaw356.alphonso.tv^
 ||krishnaw357.alphonso.tv^
 ||krishnaw358.alphonso.tv^
+||krishnaw359.alphonso.tv^
 ||krishnaw360.alphonso.tv^
 ||krishnaw361.alphonso.tv^
 ||krishnaw362.alphonso.tv^
@@ -19599,8 +19660,10 @@
 ||krishnaw369.alphonso.tv^
 ||krishnaw370.alphonso.tv^
 ||krishnaw371.alphonso.tv^
+||krishnaw373.alphonso.tv^
 ||krishnaw374.alphonso.tv^
 ||krishnaw375.alphonso.tv^
+||krishnaw376.alphonso.tv^
 ||krishnaw380.alphonso.tv^
 ||krishnaw381.alphonso.tv^
 ||krishnaw382.alphonso.tv^
@@ -19611,6 +19674,9 @@
 ||krishnaw387.alphonso.tv^
 ||krishnaw390.alphonso.tv^
 ||krishnaw391.alphonso.tv^
+||krishnaw392.alphonso.tv^
+||krishnaw393.alphonso.tv^
+||krishnaw394.alphonso.tv^
 ||krishnaw396.alphonso.tv^
 ||krishnaw397.alphonso.tv^
 ||krishnaw398.alphonso.tv^
@@ -19627,9 +19693,12 @@
 ||krishnaw416.alphonso.tv^
 ||krishnaw417.alphonso.tv^
 ||krishnaw420.alphonso.tv^
+||krishnaw421.alphonso.tv^
 ||krishnaw422.alphonso.tv^
 ||krishnaw423.alphonso.tv^
 ||krishnaw424.alphonso.tv^
+||krishnaw425.alphonso.tv^
+||krishnaw426.alphonso.tv^
 ||krishnaw427.alphonso.tv^
 ||krishnaw428.alphonso.tv^
 ||krishnaw429.alphonso.tv^
@@ -19641,9 +19710,13 @@
 ||krishnaw437.alphonso.tv^
 ||krishnaw438.alphonso.tv^
 ||krishnaw439.alphonso.tv^
+||krishnaw440.alphonso.tv^
 ||krishnaw441.alphonso.tv^
+||krishnaw442.alphonso.tv^
+||krishnaw443.alphonso.tv^
 ||krishnaw445.alphonso.tv^
 ||krishnaw446.alphonso.tv^
+||krishnaw447.alphonso.tv^
 ||krishnaw448.alphonso.tv^
 ||krishnaw449.alphonso.tv^
 ||krishnaw450.alphonso.tv^
@@ -19673,6 +19746,8 @@
 ||krishnaw476.alphonso.tv^
 ||krishnaw477.alphonso.tv^
 ||krishnaw478.alphonso.tv^
+||krishnaw479.alphonso.tv^
+||krishnaw480.alphonso.tv^
 ||krishnaw481.alphonso.tv^
 ||krishnaw484.alphonso.tv^
 ||krishnaw485.alphonso.tv^
@@ -19722,6 +19797,7 @@
 ||kvnkjd.kaigoshoku.mynavi.jp^
 ||kvskic.jadore-jun.jp^
 ||kvt5.blesscollectionhotels.com^
+||kvzvlu2.alphonso.tv^
 ||kwalnc.vans.co.kr^
 ||kwbpge.jra-van.jp^
 ||kwgs.letudiant.fr^
@@ -19756,6 +19832,7 @@
 ||kz-st-sl.vivoglobal.com^
 ||kz-st-sysupgrade.vivoglobal.com^
 ||kz-stsdk.vivoglobal.com^
+||kz-timesync.vivoglobal.com^
 ||kz-vcode-api.vivoglobal.com^
 ||kz-vcode-od.vivoglobal.com^
 ||kz-vcode-or.vivoglobal.com^
@@ -21026,6 +21103,7 @@
 ||lj5s1u8ct5vz.app.chatpay.dev^
 ||ljb0.assuronline.com^
 ||ljbpfe.notino.es^
+||ljjsajcuwf67.alphonso.tv^
 ||ljqpvo.hardrock.com^
 ||ljyipz.nugnes1920.com^
 ||ljzxdu.largus.fr^
@@ -21107,6 +21185,7 @@
 ||location.tiktokv.com^
 ||location.tiktokw.us^
 ||location.us.tiktokv.com^
+||locationv16-normal-useastred.tiktokv.eu^
 ||lockcard-service-in.allawnos.com^
 ||lockuplookup.com^
 ||lodicoandco.actonservice.com^
@@ -23841,6 +23920,7 @@
 ||mercury-sdk.snssdk.com^
 ||mercury-staging.alphonso.tv^
 ||mercury.alphonso.tv^
+||mercuryace.com^
 ||meremark.com^
 ||merequartz.com^
 ||merryopal.com^
@@ -25844,6 +25924,7 @@
 ||mqzoid.vintorte.com^
 ||mr.homedepot.ca^
 ||mre6.destinia.ma^
+||mrhcmybeao1.alphonso.tv^
 ||mri.iradimed.com^
 ||mrksmm.yumegazai.com^
 ||mroprospector.aviationweek.com^
@@ -26330,6 +26411,7 @@
 ||nhlvvh.sawadee.nl^
 ||nhnazx.outdoorlook.co.uk^
 ||nhqkbl.semilac.pl^
+||nhundu5.alphonso.tv^
 ||ni8.lafuma-boutique.com^
 ||ni8.lafuma.com^
 ||niblewren.co^
@@ -26557,6 +26639,7 @@
 ||nsteq.queensland.com^
 ||nthldc.europcar.co.uk^
 ||ntkfbsqfxy2.alphonso.tv^
+||ntmonou0.alphonso.tv^
 ||ntopcd.underarmour.nl^
 ||ntphyl.milan-jeunesse.com^
 ||ntt-fletscv.ntt-flets.com^
@@ -27100,6 +27183,7 @@
 ||onrt-stsdk.vivoglobal.com^
 ||onrt.stsdk.vivoglobal.com^
 ||ontxgr.hofer-reisen.at^
+||onvshoi4.alphonso.tv^
 ||oo.ooshop.com^
 ||oocrzh.byojet.com^
 ||ooefrrv5.alphonso.tv^
@@ -28676,6 +28760,7 @@
 ||qc.vogue.com^
 ||qc.wired.com^
 ||qcblzn.pinkpanda.it^
+||qcduuw89.alphonso.tv^
 ||qceyjl.cellularoutfitter.com^
 ||qcgtoz.cwjobs.co.uk^
 ||qcmxuy.hardloop.de^
@@ -29586,6 +29671,7 @@
 ||rtc-logger.tiktokv.com^
 ||rtc-logger.tiktokv.us^
 ||rtc-logger.us.tiktokv.com^
+||rtc-logger16-normal-useastred.tiktokv.eu^
 ||rtc.multiscreensite.com^
 ||rtds.progressive.com^
 ||rtegbv.jmclaughlin.com^
@@ -37851,6 +37937,7 @@
 ||sweeps.la-z-boy.com^
 ||sweetslope.com^
 ||swellstocking.com^
+||swiftanalyticsprod.servicebus.windows.net^
 ||swiftintro.com^
 ||swim2000.actonservice.com^
 ||swimfreely.com^
@@ -38817,6 +38904,7 @@
 ||tdf1.laredoute.fr^
 ||tdf1.vente-unique.pt^
 ||tdjvod.chevignon.com.co^
+||tdljbxejny3.alphonso.tv^
 ||tdor-smetrics.td.com^
 ||tdp1.vivabox.es^
 ||tds1.vivabox.be^
@@ -39866,6 +39954,7 @@
 ||tkacr788.alphonso.tv^
 ||tkacr789.alphonso.tv^
 ||tkacr790.alphonso.tv^
+||tkacr791.alphonso.tv^
 ||tkelq.genesys.com^
 ||tkgaws.seokplant.com^
 ||tkjcqb.forrent.com^
@@ -39927,6 +40016,7 @@
 ||tnc-sg.capcutapi.com^
 ||tnc-va-us-looki.capcutapi.com^
 ||tnc-va.capcutapi.com^
+||tnc0-normal-alisg.tiktokv.com^
 ||tnc0-normal-my.tiktokv.com^
 ||tnc0-normal-sg1.tiktokv.com^
 ||tnc0-normal-useast1a.tiktokv.com^
@@ -39953,6 +40043,7 @@
 ||tnc19-normal-no1a.tiktokv.eu^
 ||tnc19-normal-useast5.tiktokv.us^
 ||tnc19-normal-useast8.tiktokv.us^
+||tnc19-normal-useastred.tiktokv.eu^
 ||tnc3-aliec2.snssdk.com^
 ||tnc3-alisc1.snssdk.com^
 ||tnc3-bjlgy.snssdk.com^
@@ -41255,6 +41346,7 @@
 ||tr6.mperf.com^
 ||trac.roomster.com^
 ||traccoon.intellectsoft.net^
+||trace-h5sdk.vivo.com.cn^
 ||trace.app-performance.music.amazon.dev^
 ||trace.bluemonkey.jp^
 ||trace.insead.edu^
@@ -41570,6 +41662,8 @@
 ||tracker.wpserveur.net^
 ||tracker.xgen.dev^
 ||trackerapi.truste.com^
+||trackercollect.ddxq.mobi^
+||trackerfeed.ddxq.mobi^
 ||trackersimulator.org^
 ||trackid.globoid.globo.com^
 ||tracking-adnet.vivo.com.cn^
@@ -45264,6 +45358,7 @@
 ||www.link5view.com^
 ||www.liod1ours.com^
 ||www.list1holp.com^
+||www.live.applicationinsights.azure.com^
 ||www.lmknjb1.com^
 ||www.loki8lave.com^
 ||www.longterminvestmentsolutions.com^
@@ -45702,7 +45797,9 @@
 ||xdvdrg.globalindustrial.com^
 ||xejpzk.fram.fr^
 ||xekjzy.rinascente.it^
+||xelyxrpty3.alphonso.tv^
 ||xewihp.bayut.com^
+||xfbqsdk8.alphonso.tv^
 ||xfobuc.serenaandlily.com^
 ||xfzcds.netprint.ru^
 ||xgefvi.iteshop.com^
@@ -45766,11 +45863,13 @@
 ||xn-ex-adreq-asa-c5b.vivoglobal.com^
 ||xnukcp.cpcompany.com^
 ||xovsoot4.alphonso.tv^
+||xp-cdn-lb.itunes-apple.com.akadns.net^
 ||xp-cdn.apple.com^
 ||xp.allianz.de^
 ||xp.apple.com^
 ||xp.apple.com.edgekey.net^
 ||xp.itunes-apple.com.akadns.net^
+||xp.v.aaplimg.com^
 ||xp2023-pix.s3.amazonaws.com^
 ||xpcpmr.gsm55.com^
 ||xpmbuxhl9.alphonso.tv^
@@ -45954,6 +46053,7 @@
 ||yoi05.youthorganizing.net.jumia.ci^
 ||yoifwi.levi.com.ph^
 ||yoiku-sub.yoiku.support^
+||yojpcn16.alphonso.tv^
 ||yolo.philipbjorge.com^
 ||yotrack.cdn.ybn.io^
 ||yottlyscript.com^
@@ -46253,6 +46353,7 @@
 ||zs.dhl.de^
 ||zs.voyage-prive.com^
 ||zsi7.destinia.do^
+||zsrznel7.alphonso.tv^
 ||ztarkm.johnnie-o.com^
 ||ztbbpz.betten.de^
 ||ztfjtn.liujo.com^
