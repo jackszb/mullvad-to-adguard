@@ -3,7 +3,7 @@ name: Mullvad to AdGuard (Adblock style)
 on:
   workflow_dispatch:
   schedule:
-    - cron: "5 3 * * 1"   # Mondays 03:05 UTC
+    - cron: "5 3 * * *"
 
 permissions:
   contents: write
